@@ -105,7 +105,7 @@ Open your browser at `http://localhost:3000/` for the Kiosk or `http://localhost
 
 ## 👥 Contributors & Acknowledgements
 
-* **Lead Developer:** Potla Sri Sharan
+* **Lead Developer:** Swikriti Singh
 * **Problem Statement:** #26047 — *Patient Case-Taking Software*
 * **Target Ministry:** Ministry of Ayush & All India Institute of Ayurveda (AIIA)
 * **National Initiative:** Smart India Hackathon (SIH 2026)
